@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>!Teach</title>
 </head>
 <body>
-
+	<%@include file="WEB-INF/views/common/mainPage.jsp" %>
 </body>
 </html>
